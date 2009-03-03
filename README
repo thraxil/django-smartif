@@ -1,0 +1,10 @@
+django-smartif is a repackaging of the handy templatetag originally
+posted here: 
+
+       http://www.djangosnippets.org/snippets/1350/
+
+by SmileyChris. 
+
+This just bundles it up as a proper app with a setup.py so I can make
+and egg out of it and thus work it into my deployment environment more
+easily. 
